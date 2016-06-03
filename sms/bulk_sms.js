@@ -1,6 +1,6 @@
 var plivo = require('plivo');
 var p = plivo.RestAPI({
-  authId: 'You',
+  authId: 'MAMZCXNZRKNDE5YJQWYJ',
   authToken: 'Your AUTH_TOKEN'
 });
 
