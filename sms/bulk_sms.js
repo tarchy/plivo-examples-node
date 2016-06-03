@@ -5,7 +5,7 @@ var p = plivo.RestAPI({
 });
 
 var params = {
-    'src': '1111111111', // Sender's phone number with country code
+    'src': 'APigu', // Sender's phone number with country code
     'dst' : '2222222222<3333333333', // Receiver's phone Number with country code
     'text' : "Hi, message from Plivo" // Your SMS Text Message
 };
